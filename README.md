@@ -3,7 +3,7 @@
      apt install python
      pip install beautifulsoup4
      apt install git 
-     git clone https://github.com/akashblackhat/fb-clone.py.git
+     git clone https://github.com/ahmiaf/fb-clone.py.git
      ls
      cd fb-clone.py
      ls
